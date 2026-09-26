@@ -1,0 +1,16 @@
+{
+  "name": "単語まとめ",
+  "short_name": "単語まとめ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#d9f2fa",
+  "theme_color": "#d9f2fa",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
